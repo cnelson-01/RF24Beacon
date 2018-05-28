@@ -1,0 +1,3 @@
+/home/chrisn/Software/RF24Beacon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chrisn/Software/RF24Beacon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chrisn/Software/RF24Beacon/cmake-build-debug/CMakeFiles/RF24Beacon.dir

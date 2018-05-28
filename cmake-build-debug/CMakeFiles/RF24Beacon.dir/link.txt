@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RF24Beacon.dir/main.cpp.o  -o RF24Beacon 
