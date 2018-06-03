@@ -1,0 +1,3 @@
+[submodule "piRF24/lib_nrf24"]
+	path = piRF24/lib_nrf24
+	url = https://github.com/BLavery/lib_nrf24
